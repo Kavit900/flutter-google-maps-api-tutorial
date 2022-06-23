@@ -1,6 +1,7 @@
-# f_google_maps
+# Flutter Google Maps API Tutorial
 
-A new Flutter project.
+This repository contains code that displays Google Maps and uses Geolocator to
+map users current location.
 
 ## Getting Started
 
